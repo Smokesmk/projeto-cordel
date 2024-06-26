@@ -60,7 +60,7 @@ section.imagem {
 }
 section.imagem > p{
     margin: 0;
-    width: 400px;
+    width: 500px;
     padding: 5px;
     display: inline-block;
     background-color: rgba(0, 0, 0, 0.425);
